@@ -1,1 +1,1 @@
-# This is a simple react project boilerplate with webpack at version 5
+# This is a simple react project boilerplate with webpack 5
